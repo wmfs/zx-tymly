@@ -16,12 +16,13 @@ Based on, and inspired by, the brilliant [ZXJavascript](https://github.com/Marqu
 ## Current screenshots
 
 __Authenticate!__
+![ZX-Tymly Authentication screen](/screenshots/screen-1.png)
 
 __Menu!__
-
+![ZX-Tymly Menu screen](/screenshots/screen-2.png)
 
 __Search!__
-
+![ZX-Tymly Search screen](/screenshots/screen-3.png)
 
 ### Running
 
