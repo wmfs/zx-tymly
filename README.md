@@ -40,7 +40,7 @@ serve
 
 Currently a bit torturous, ahead of introducing some [input](https://github.com/MarquisdeGeek/ZXJavascript/tree/master/examples/input).
 
-* Edit the `/web/js/zx-tymly.js` file
+* Edit the `/web/js/zx-tymly-old.js` file
 * Change the `currentScreen` value to suit:
 
 ```javascript
